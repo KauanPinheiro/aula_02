@@ -1,0 +1,14 @@
+.header-menu{
+    background-color: rgba(0, 0, 0, 0.973);
+    display: flex;
+    justify-content: space-between  ;
+    padding: 8px;
+}
+
+.img-logo{
+    width: 5%;
+
+}
+.text2{
+    color: red;
+}

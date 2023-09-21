@@ -1,0 +1,22 @@
+.rodape{
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    bottom: 0%;
+    height: 8%;
+    width: 100%;
+    display: flex;
+
+    
+}
+.img-fac{
+    width: 5%;
+    
+}
+.img-inst{
+    width: 5%;
+    
+}
+.text{
+    color: red;
+    text-align: center  ;
+}
