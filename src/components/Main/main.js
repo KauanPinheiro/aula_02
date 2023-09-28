@@ -6,8 +6,7 @@ import Equipe from "../Equipe/Equipe"
 function Main(){
     return(
         <main>
-        <Equipe/>
-            
+            <Equipe/>
         </main>
     )
 }
