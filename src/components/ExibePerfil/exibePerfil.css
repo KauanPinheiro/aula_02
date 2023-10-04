@@ -2,3 +2,19 @@
     width: 200px;
     height: 200px;
 }
+div{
+    background-color: #ffff;
+}
+h1{
+    color: black    ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 30px;
+}
+.img-exibe-perfil{
+    box-shadow: 15px 20px 20px black;   
+    width: 250px;
+}

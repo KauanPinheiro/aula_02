@@ -9,7 +9,6 @@ function Footer(){
         <footer className="rodape">
             <img src={fac} className="img-fac"/>
             <img src={inst} className="img-inst"/>
-            <p className="text">Veja nossas redes sociais !</p>
         </footer>
     )
 }
