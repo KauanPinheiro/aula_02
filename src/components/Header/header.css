@@ -1,8 +1,8 @@
 .header-menu{
-    background-color: lightgray;
-    display: flex;
-    justify-content: space-between  ;
+    background-color: #363636	;
+    display: flex   ;
     padding: 8px;
+    justify-content: space-between  ;
 }   
 
 .img-logo{
@@ -10,5 +10,6 @@
 
 }
 .text2{
-    color: red;
+    color: greenyellow  ; 
+    font-size: 30px;
 }

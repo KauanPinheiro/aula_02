@@ -5,10 +5,10 @@ import Charlizard  from "../../img/006Charizard_AG_anime.jpg"
 import Blastoise from "../../img/teste_two.png"
 import Venossauro from "../../img/003Venusaur_Dream.jpg"
 import Pikachu from "../../img/580b57fcd9996e24bc43c325.png"
-import Tyle from "../../img/fire2.png"
-import Ferra from "../../img/water2.png"
-import Mega from "../../img/glass_03.png"
-import Raio from "../../img/raichu04.png"
+import Tyle from "../../img/bgTyle.png"
+import Ferra from "../../img/bgFerra.png"
+import Mega from "../../img/bgGlass.png"
+import Raio from "../../img/bgRaichu.png"
 
 function Main(){
     return(

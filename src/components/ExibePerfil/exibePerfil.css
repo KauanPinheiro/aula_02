@@ -3,7 +3,7 @@
     height: 200px;
 }
 div{
-    background-color: #ffff;
+    background-color: lightgray ;
 }
 h1{
     color: black    ;
@@ -15,6 +15,7 @@ p{
     font-size: 30px;
 }
 .img-exibe-perfil{
-    box-shadow: 15px 20px 20px black;   
+    box-shadow: 25px 20px 30px black;   
     width: 250px;
+    border: 2px solid rgb(255, 231, 14);
 }
