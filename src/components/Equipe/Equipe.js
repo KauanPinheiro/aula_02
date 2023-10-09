@@ -6,13 +6,8 @@ import Venossauro from "../../img/003Venusaur_Dream.jpg"
 import Pikachu from "../../img/580b57fcd9996e24bc43c325.png"
 
 
-function Equipe(){
-    const listP = [
-        {nome: "Charlizard", caracteristica: "Fogo", img: Charlizard},
-        {nome: "Blastoise", caracteristica: "Água", img: Blastoise },
-        {nome: "Venossauro", caracteristica: "Grama", img: Venossauro },
-        {nome: "Pikachu", caracteristica: "Eletríco", img: Pikachu}
-    ]
+function Equipe({listP}){
+
 
     return(
         <>
