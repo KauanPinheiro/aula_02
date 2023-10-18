@@ -3,19 +3,58 @@
     height: 200px;
 }
 div{
-    background-color: lightgray ;
+    background-color: #1A1A1A ;
+
 }
 h1{
-    color: black    ;
-    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: #ffff    ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 p{
-    color: black;
+    color: #ffff;
     font-family: Arial, Helvetica, sans-serif ;
-    font-size: 30px;
+    font-size: 20px;
 }
 .img-exibe-perfil{
-    box-shadow: 25px 20px 30px black;   
+    box-shadow: 25px 20px 30px gold;   
     width: 250px;
-    border: 2px solid rgb(255, 231, 14);
+    border: 2px solid goldenrod;
+
+    &:hover{
+        scale: 1.1;
+    transition: 0.10s;
+    opacity: 0.30;
+    }
+}   
+.mitico{
+    font-size: 25px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.mitico p {
+    text-align: center;
+    color: #ffff;
+    background-color: rgb(193, 196, 20);
+    border-radius: 5%;  
+    width: 50%; 
+}
+.semeMitico{
+    font-size: 25px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.semeMitico p{
+    text-align: center;
+    color: #ffff;
+    background-color: rgb(133, 15, 243);
+    border-radius: 5%;  
+    width: 50%; 
+}
+.sCat p{
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
 }

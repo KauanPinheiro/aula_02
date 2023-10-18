@@ -1,6 +1,7 @@
 .header-menu{
     background-color: #363636	;
     display: flex   ;
+    position: relative;
     padding: 8px;
     justify-content: space-between  ;
 }   
